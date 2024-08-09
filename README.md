@@ -7,4 +7,4 @@ index.html: This is the main HTML file that contains the content of the website.
 
 Credits This website was created by Manvi Pandey, and is licensed under the MIT License.
 
-Feedback If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly at - manvipandey04@gmail.com
+Feedback If you have any feedback or suggestions, feel free to create an issue on this repository.
